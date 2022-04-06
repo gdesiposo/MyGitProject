@@ -4,3 +4,4 @@ File updates by DEV2
 File updated by avidakov
 
 Making changes in browser 1
+Making more changes in browser 1
