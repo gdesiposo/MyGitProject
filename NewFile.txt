@@ -5,3 +5,4 @@ File updated by avidakov
 
 Making changes in browser 1
 Making more changes in browser 1
+Making changes in browser 2
